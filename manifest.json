@@ -1,0 +1,6 @@
+{
+  "name": "oldschool",
+  "short_name": "oldschool",
+  "start_url": "/",
+  "display": "standalone"
+}
